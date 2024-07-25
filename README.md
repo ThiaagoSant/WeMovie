@@ -26,4 +26,4 @@ Execute o comando a baixo para inicializar o servidor de desenvolvimento:
 
 ## Deploy
 
-[WeMovie](https://wemovie-ecommerce-thiaagosant-thiaagosants-projects.vercel.app/)
+[WeMovie](https://we-movie-two.vercel.app/)
