@@ -7,7 +7,7 @@ Este é o repositório com o código fonte desenvolvido para o teste de Desenvol
 Você precisará ter apenas o [NodeJS](https://nodejs.org) instalado na sua máquina, e após isso, clonar este repositório:
 
 ```sh
-  $ git clone https://github.com/WeLearn-Academy/teste-react-ThiaagoSant.git
+  $ git clone https://github.com/ThiaagoSant/WeMovie.git
 ```
 
 Depois disso, acesse a pasta com o repositório e instale as dependências executando o seguinte comando:
